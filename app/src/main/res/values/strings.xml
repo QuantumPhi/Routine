@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!--Default-->
     <string name="app_name">Routine</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <!--Custom-->
+    <string name="no_routine">You don't seem to have any routines.</string>
+    <string name="button_start">Create a new routine!</string>
 
 </resources>
