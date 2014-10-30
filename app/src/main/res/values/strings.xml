@@ -8,7 +8,7 @@
     <string name="action_settings">Settings</string>
 
     <!-- Custom -->
-    <string name="no_routine">You don't seem to have any routines.</string>
+    <string name="no_routine">You don\'t seem to have any routines.</string>
     <string name="button_start">Create a new routine!</string>
 
 </resources>
